@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.a52a65e3.css",
-    "main.js": "/static/js/main.d3bdb0d2.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "index.html": "/index.html",
-    "main.a52a65e3.css.map": "/static/css/main.a52a65e3.css.map",
-    "main.d3bdb0d2.js.map": "/static/js/main.d3bdb0d2.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/Naj33bAli.github.io-portfolio/static/css/main.a52a65e3.css",
+    "main.js": "/Naj33bAli.github.io-portfolio/static/js/main.04e39260.js",
+    "static/js/453.1407b060.chunk.js": "/Naj33bAli.github.io-portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/Naj33bAli.github.io-portfolio/index.html",
+    "main.a52a65e3.css.map": "/Naj33bAli.github.io-portfolio/static/css/main.a52a65e3.css.map",
+    "main.04e39260.js.map": "/Naj33bAli.github.io-portfolio/static/js/main.04e39260.js.map",
+    "453.1407b060.chunk.js.map": "/Naj33bAli.github.io-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a52a65e3.css",
-    "static/js/main.d3bdb0d2.js"
+    "static/js/main.04e39260.js"
   ]
 }
